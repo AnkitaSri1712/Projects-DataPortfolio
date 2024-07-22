@@ -73,7 +73,11 @@ Project 2:Tokyo Olympics 2021 Data Analysis and Insights
 
 Power BI:-
 
-Project 1: 
+Project 1: Project Management Dashboard
+
+Project 2: Email Marketing analysis Dashboard
+
+Project 3: Real estate(USA) stats Dashboard
 
 
 

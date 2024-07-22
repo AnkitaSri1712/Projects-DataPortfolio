@@ -1,1 +1,3 @@
-
+This project involves managing and analyzing data related to airline operations, customer details, ticket sales, and flight routes using MySQL queries. 
+The dataset encompasses information on passengers, flights, routes, ticket details, and customer demographics. 
+The objective is to derive insights into customer preferences, flight patterns, revenue generation, and to facilitate efficient airline management and customer relationship management.

@@ -1,1 +1,3 @@
-
+This project involves creating and analyzing a database named "employees" that includes tables related to employee records, data science team details, and project information. 
+The dataset encompasses employee demographics, roles, experience levels, salaries, ratings, and project assignments across various departments and countries.
+The objective is to derive insights into employee performance, departmental dynamics, project statuses, and to facilitate efficient HR management and project oversight.

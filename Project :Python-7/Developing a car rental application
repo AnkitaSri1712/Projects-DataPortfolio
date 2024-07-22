@@ -1,1 +1,3 @@
-
+The Car Rental System project simulates a simple car rental shop where customers can rent cars on an hourly, daily, or weekly basis. 
+The system is implemented in Python using object-oriented programming concepts. It consists of two main classes: CarRental and Customer.The CarRental class manages the rental operations and inventory of cars available in the shop. 
+It allows customers to check available stock, rent cars on different time bases (hourly, daily, weekly), return cars, and calculates bills based on the rental duration and type.

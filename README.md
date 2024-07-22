@@ -41,8 +41,44 @@ Project 8: Developing a shopping application
 
 
 
+Excel:-
+
+Project 1: Customer Success Analysis and Dashboard
+
+Project 2: Sales analysis and Dashboard 
 
 
+MySQL:-
+
+Project 1: Employee Absenteeism Analysis and Compensation Optimization
+
+~This project focuses on analyzing absenteeism patterns among employees and optimizing compensation strategies based on various criteria such as health status and smoking habits. The data used includes information on absenteeism incidents, employee characteristics, reasons for absence, and compensation rates.By leveraging data-driven insights from the analysis, the project aims to enhance employee health awareness, reduce absenteeism rates, and optimize compensation strategies to align with company objectives and financial capabilities.
+
+Project 2:Tokyo Olympics 2021 Data Analysis and Insights
+
+ ~This project involves comprehensive analysis and exploration of data from the Tokyo 2021 Olympics. The dataset includes information on athletes, coaches, medals won, team performances, and continental representation. The primary objectives are to derive insights into participant demographics, team performances, coach-player dynamics, and continental contributions to the games.
+
+ Project 3: Sales and Profit Analysis for Retail Operations
+
+ ~This project focuses on analyzing sales and profit data from a retail company. The dataset includes detailed information on orders, customers, products, and shipping details. The primary goal is to derive insights into sales performance, profitability, customer distribution, and operational efficiency across different segments, regions, and product categories.
+
+ Project 4: : HR and Project Management Database Analysis
+
+ ~This project involves creating and analyzing a database named "employees" that includes tables related to employee records, data science team details, and project information. The dataset encompasses employee demographics, roles, experience levels, salaries, ratings, and project assignments across various departments and countries. The objective is to derive insights into employee performance, departmental dynamics, project statuses, and to facilitate efficient HR management and project oversight.
+
+ Project 5: Title: Airline Management and Customer Analysis
+ 
+~This project involves managing and analyzing data related to airline operations, customer details, ticket sales, and flight routes using MySQL queries. The dataset encompasses information on passengers, flights, routes, ticket details, and customer demographics. The objective is to derive insights into customer preferences, flight patterns, revenue generation, and to facilitate efficient airline management and customer relationship management.
+
+
+Power BI:-
+
+Project 1: 
+
+
+
+
+ 
 
 
 

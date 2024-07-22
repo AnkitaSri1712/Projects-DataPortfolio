@@ -1,1 +1,3 @@
-
+The Online Shopping System project facilitates an interactive platform for both administrators and users to manage and engage in shopping activities. 
+Implemented in Python, it employs object-oriented programming principles to model users, administrators, categories of items, individual items, carts, and payment methods. 
+This project demonstrates fundamental object-oriented programming concepts applied to simulate a comprehensive online shopping experience.

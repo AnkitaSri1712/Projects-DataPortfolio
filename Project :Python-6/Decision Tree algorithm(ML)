@@ -1,1 +1,3 @@
-
+In this project, we aim to build a classification model to predict the safety of cars based on various attributes. 
+The dataset used contains information on car attributes like buying price, maintenance cost, number of doors, capacity, trunk size, and safety features, along with the safety classification as 'unacceptable', 'acceptable', 'good', or 'very good'.
+This showcases the application of Decision Tree classifiers for multiclass classification tasks using Python's machine learning ecosystem, emphasizing data preprocessing, model training, evaluation, and interpretation of results.

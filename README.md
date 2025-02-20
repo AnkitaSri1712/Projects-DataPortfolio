@@ -40,6 +40,62 @@ Project 8: Developing a shopping application
 ~The Online Shopping System project facilitates an interactive platform for both administrators and users to manage and engage in shopping activities. Implemented in Python, it employs object-oriented programming principles to model users, administrators, categories of items, individual items, carts, and payment methods. This project demonstrates fundamental object-oriented programming concepts applied to simulate a comprehensive online shopping experience
 
 
+Project 8: Developing a cosmetic recommendation system
+
+~Tools/Technologies: Python, Pandas, NumPy, scikit-learn, t-SNE, Bokeh
+•	Developed a content-based recommendation system for cosmetic products, using chemical ingredient lists to recommend similar items to consumers with different skin types.
+•	Processed raw ingredient data (1472 cosmetic products) through tokenization, creating a document-term matrix (DTM) to represent ingredient presence.
+•	Applied t-SNE (T-distributed Stochastic Neighbor Embedding) to reduce dimensionality of the high-dimensional ingredient matrix and visualize product similarity in two dimensions.
+•	Visualized product similarity using Bokeh, creating an interactive plot to explore similar products based on ingredient overlap.
+•	Drew insights into cosmetic product similarities and potential alternative products for consumers, allowing them to make more informed purchase decisions based on ingredient matching.
+
+
+Project 9: Conducted quantitative analysis on stocks data
+
+Conducted quantitative analysis on stock market data, focusing on price trends, volatility, and technical indicators.
+Implemented time series analysis, moving averages, and momentum indicators to identify trading patterns.
+Utilized Python (Pandas, NumPy, Matplotlib, Scikit-learn) for data processing, feature engineering, and modeling.
+Applied statistical methods and machine learning algorithms (e.g., regression, ARIMA) for predictive analytics.
+Developed interactive visualizations and dashboards using Plotly/Streamlit for data-driven insights.
+
+
+
+Project 10: Performed stock Price Direction Prediction using Support vector machine ML algorithm
+
+Built a Support Vector Machine (SVM) model to predict stock price direction (up/down) based on historical market data.
+Collected and processed stock price data, technical indicators (SMA, RSI, MACD), and market sentiment for feature engineering.
+Implemented data preprocessing, feature selection, and hyperparameter tuning to optimize model performance.
+Utilized Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn) for data analysis, modeling, and visualization.
+Achieved improved prediction accuracy and evaluated performance using precision, recall, and confusion matrix metrics.
+
+
+
+Project 10: Developed a Multivariate Time Series Forecasting model using the Vector Autoregression (VAR) approach to predict stock prices of four different stocks.
+
+Performed Augmented Dickey-Fuller (ADF) test to ensure stationarity of time series data before modeling.
+Engineered features from historical prices, trading volume, and technical indicators to improve predictive accuracy.
+Implemented Python (Pandas, NumPy, Statsmodels, Matplotlib, Seaborn) for data preprocessing, model building, and evaluation.
+Assessed model performance using RMSE, MAE, and visualized forecasted trends using Matplotlib and Plotly.
+
+
+Project 11: Developed a Convolutional Neural Network (CNN) model to classify images of lightning, snow, and various weather conditions.
+
+Collected and preprocessed a dataset of weather images, applying data augmentation (rotation, flipping, normalization) for robustness.
+Built and trained the CNN model using TensorFlow/Keras, optimizing performance through hyperparameter tuning.
+Achieved high classification accuracy using transfer learning (ResNet, VGG16) and evaluated results with precision, recall, and F1-score.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Excel:-
 

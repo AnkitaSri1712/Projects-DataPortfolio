@@ -1,1 +1,4 @@
-
+This project applies and compares supervised learning techniques across regression and classification tasks using the California Housing and Wine datasets. 
+For regression, Linear, Ridge, and Lasso models are evaluated across a logarithmic sweep of regularization strengths, with Lasso achieving the lowest test MSE (0.548), highlighting the value of coefficient shrinkage for generalization. 
+For classification, six models — Logistic Regression, SVM, Decision Tree, Random Forest, and two neural network architectures — are compared using accuracy, macro F1-score, and confusion matrices, with Random Forest reaching perfect test accuracy. 
+Built using Python and scikit-learn, the project demonstrates end-to-end model selection, regularization analysis, and multi-metric evaluation for both continuous and multi-class prediction problems.

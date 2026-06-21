@@ -14,6 +14,15 @@ Project: Sampling Plan Design & Automated Welfare Survey Analysis Pipeline
 This project designs a statistically defensible sampling plan and builds an automated analysis pipeline for a social welfare beneficiary survey, modeled on the evaluation studies used to assess scheme awareness and benefit uptake among target populations. The workflow covers stratified sample-size calculation — incorporating finite population correction, design effects, and non-response adjustment — through to data cleaning, chi-square testing, and logistic regression to identify predictors of benefit receipt across social categories and states. Built using Python with NumPy, pandas, SciPy, and statsmodels, with automated chart and report generation, the project reflects the full statistical lifecycle of a Ministry or UN-style program evaluation, from study design through to written findings.
 
 
+Project: Regression and Classification using Scikit-learn
+
+This project applies and compares supervised learning techniques across regression and classification tasks using the California Housing and Wine datasets. For regression, Linear, Ridge, and Lasso models are evaluated across a logarithmic sweep of regularization strengths, with Lasso achieving the lowest test MSE (0.548), highlighting the value of coefficient shrinkage for generalization. For classification, six models — Logistic Regression, SVM, Decision Tree, Random Forest, and two neural network architectures — are compared using accuracy, macro F1-score, and confusion matrices, with Random Forest reaching perfect test accuracy. Built using Python and scikit-learn, the project demonstrates end-to-end model selection, regularization analysis, and multi-metric evaluation for both continuous and multi-class prediction problems.
+
+
+Project: Part-of-Speech Tagging using Hidden Markov Models
+
+This project implements a Part-of-Speech tagger from first principles using a Hidden Markov Model with Viterbi decoding, trained and evaluated on the NLTK Penn Treebank corpus with the Universal Tagset. Transition and emission probabilities are estimated via frequency counts with Laplace smoothing, and an unknown-word handling extension using tag-prior probabilities improves validation accuracy from 90.09% to 90.46%. Quantitative and qualitative analysis identify specific sentences where unknown-word handling corrects tagging errors made by the baseline model. Built entirely in Python without pre-built tagging libraries, the project demonstrates core NLP sequence-modeling techniques, including dynamic programming-based decoding and probabilistic smoothing.
+
 Python:-
 
 Project 1:Electric Vehicle Market Analysis

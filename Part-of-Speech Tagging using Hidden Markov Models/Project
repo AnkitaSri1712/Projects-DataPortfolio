@@ -1,1 +1,5 @@
+This project implements a Part-of-Speech tagger from first principles using a Hidden Markov Model with Viterbi decoding, trained and evaluated on the NLTK Penn Treebank corpus with the Universal Tagset. 
+Transition and emission probabilities are estimated via frequency counts with Laplace smoothing, and an unknown-word handling extension using tag-prior probabilities improves validation accuracy from 90.09% to 90.46%. 
+Quantitative and qualitative analysis identify specific sentences where unknown-word handling corrects tagging errors made by the baseline model. 
+Built entirely in Python without pre-built tagging libraries, the project demonstrates core NLP sequence-modeling techniques, including dynamic programming-based decoding and probabilistic smoothing.
 

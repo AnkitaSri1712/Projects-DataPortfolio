@@ -1,4 +1,10 @@
 # Projects-DataPortfolio
+
+Project: Global Human Development Dashboard
+This project focuses on analyzing global human development indicators using the Human Development Index (HDI) dataset published by the United Nations Development Programme (UNDP). The analysis explores the relationship between human development and key socioeconomic factors such as life expectancy, education, and income through exploratory data analysis, statistical modeling, and machine learning techniques. Interactive visualizations and dashboard components developed using Python and Plotly provide insights into development patterns across 204 countries and support evidence-based understanding of global development outcomes.
+
+
+
 Python:-
 
 Project 1:Electric Vehicle Market Analysis

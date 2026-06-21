@@ -4,6 +4,15 @@ Project: Global Human Development Dashboard
 This project focuses on analyzing global human development indicators using the Human Development Index (HDI) dataset published by the United Nations Development Programme (UNDP). The analysis explores the relationship between human development and key socioeconomic factors such as life expectancy, education, and income through exploratory data analysis, statistical modeling, and machine learning techniques. Interactive visualizations and dashboard components developed using Python and Plotly provide insights into development patterns across 204 countries and support evidence-based understanding of global development outcomes.
 
 
+Project: Psychometric Validation of a Social-Emotional Learning (SEL) Scale
+
+This project focuses on validating a multi-dimensional psychometric scale designed to measure Social-Emotional Learning (SEL) competencies — self-awareness, empathy, resilience, collaboration, and emotional regulation — using simulated item-response data built on documented, realistic parameters. The analysis applies the standard psychometric validation battery: Classical Test Theory for item-level analysis, Cronbach's alpha for reliability, Exploratory Factor Analysis with parallel analysis to confirm structural validity, and Item Response Theory (Graded Response Model) to estimate item discrimination and difficulty. Built using Python with the factor_analyzer, pingouin, and girth libraries, the project demonstrates an end-to-end scale-validation workflow directly applicable to designing and validating real-world education and SEL assessment instruments.
+
+
+Project: Sampling Plan Design & Automated Welfare Survey Analysis Pipeline
+
+This project designs a statistically defensible sampling plan and builds an automated analysis pipeline for a social welfare beneficiary survey, modeled on the evaluation studies used to assess scheme awareness and benefit uptake among target populations. The workflow covers stratified sample-size calculation — incorporating finite population correction, design effects, and non-response adjustment — through to data cleaning, chi-square testing, and logistic regression to identify predictors of benefit receipt across social categories and states. Built using Python with NumPy, pandas, SciPy, and statsmodels, with automated chart and report generation, the project reflects the full statistical lifecycle of a Ministry or UN-style program evaluation, from study design through to written findings.
+
 
 Python:-
 
